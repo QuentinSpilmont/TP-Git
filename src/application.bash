@@ -1,4 +1,4 @@
-### Application.bash - 2019 - Spilmont ###
+### Application.bash - 2019 - Spilmont & ROUSSEAU BAUDOIN ###
 
 echo "Copyright IIA - 2019"
 
